@@ -5,7 +5,7 @@
 <!--  Application Name  -->
   <name>PhoneGap Compass App</name>
 <!--  Application Description  -->
-<description/>
+<description>Basic PhoneGap Compass App. Shows heading in magnetic heading degrees.</description>
 <!--  Author Information  -->
 <author href="" email=""/>
 <!--  Platforms  -->
